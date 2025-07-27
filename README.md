@@ -55,14 +55,18 @@ Create a seamless sound environment that understands your audio needs through co
 
 ---
 
-📄 License
-This project is not licensed for reuse or redistribution.
-All rights reserved © [Esha Sharma], 2025.
+## 📄 License
+This project is **not licensed for reuse or redistribution**.  
+All rights reserved © [Esha Sharma], 2025.  
 Please do not copy, modify, or use this work without prior written permission.
 
-👤 Author
+
+---
+
+## 👤 Author
+
 Created by **[Esha Sharma](https://eshadesignportfolio.framer.website)**  
-🔍 Prompt Engineer | ✍️ Content Strategist | 🤖 GenAI Creator
-[Portfolio](https://eshadesignportfolio.framer.website)
+🔍 Prompt Engineer | ✍️ Content Strategist | 🤖 GenAI Creator  
+ [Portfolio](https://eshadesignportfolio.framer.website)
 
 
